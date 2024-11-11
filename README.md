@@ -42,7 +42,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 - **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
 
-
+---
 
 # Web Connectivity Checker
 Check if websites are connected and available
